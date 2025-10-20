@@ -1,0 +1,51 @@
+project_id,project_name,description,start_date,end_date,status,client_id,budget,employee_id,role_in_project,assigned_at
+1,Website Redesign,Complete overhaul of client's e-commerce platform,2023-03-15,2023-06-30,Completed,1,75000,1,Lead Developer,2023-03-10
+2,Mobile App Development,iOS and Android app for inventory tracking,2023-05-01,2023-10-15,Completed,2,120000,6,Frontend Lead,2023-04-25
+3,CRM Integration,Integrate Salesforce with internal tools,2023-07-10,2023-09-30,Completed,3,50000,11,Integration Specialist,2023-07-05
+4,Brand Identity Refresh,"New logo, colors, and brand guidelines",2023-02-01,2023-04-15,Completed,4,30000,17,Designer,2023-01-25
+5,Cloud Migration,Migrate on-premise servers to AWS,2023-08-01,2024-01-31,Completed,5,200000,16,DevOps Lead,2023-07-25
+6,Data Analytics Dashboard,Real-time sales and marketing dashboard,2023-09-15,2024-02-28,Completed,6,85000,36,Data Engineer,2023-09-10
+7,ERP Implementation,Deploy SAP ERP across finance and HR,2023-11-01,2024-05-31,In Progress,7,300000,45,Cloud Architect,2023-10-25
+8,SEO Optimization Campaign,Improve organic search rankings,2023-01-10,2023-06-30,Completed,8,25000,12,SEO Lead,2023-01-05
+9,Product Launch Support,Marketing and logistics for new product,2023-10-01,2023-12-15,Completed,9,60000,22,Marketing Lead,2023-09-25
+10,Social Media Strategy,6-month content and ad strategy,2024-01-15,2024-07-15,In Progress,10,40000,42,Social Media Strategist,2024-01-10
+11,Cybersecurity Audit,Full security assessment and hardening,2023-12-01,2024-03-31,Completed,11,70000,41,Security Lead,2023-11-25
+12,E-commerce Platform Build,Custom Shopify Plus implementation,2024-02-01,2024-08-31,In Progress,12,150000,21,Full Stack Lead,2024-01-25
+13,Training Program Development,Onboard new sales team with LMS,2023-06-15,2023-09-01,Completed,13,35000,24,Training Lead,2023-06-10
+14,Supply Chain Optimization,Reduce logistics costs by 20%,2024-03-01,2024-09-30,In Progress,14,90000,33,Sales Ops Analyst,2024-02-25
+15,Video Production Series,10 promotional videos for product line,2023-04-01,2023-07-15,Completed,15,45000,27,Video Producer,2023-03-25
+16,Mobile Game Development,Casual puzzle game for iOS/Android,2024-04-01,2025-01-31,Planned,16,200000,31,Mobile Lead,2024-03-25
+17,Green Energy Feasibility,Solar/wind integration study,2023-10-15,2024-01-15,Completed,17,55000,35,Energy Analyst,2023-10-10
+18,UX Research Study,User testing for new app features,2024-05-01,2024-07-31,In Progress,18,30000,17,UX Researcher,2024-04-25
+19,Agricultural IoT Pilot,Sensor network for smart farming,2023-08-15,2024-02-28,Completed,19,110000,2,AgriTech Consultant,2023-08-10
+20,Legal Compliance Portal,GDPR and CCPA compliance tool,2024-01-01,2024-06-30,In Progress,20,65000,49,Compliance Lead,2023-12-25
+21,Medical Device Software,FDA-compliant patient monitoring app,2023-11-15,2024-08-31,In Progress,21,180000,1,Medical Software Lead,2023-11-10
+22,Pet Care Mobile App,Appointment booking and reminders,2024-02-15,2024-09-30,In Progress,22,75000,13,Pet App Specialist,2024-02-10
+23,Online Learning Platform,K-12 interactive course system,2023-07-01,2024-01-31,Completed,23,130000,23,Edu Platform Lead,2023-06-25
+24,Beauty Product Launch,Full campaign for new skincare line,2023-09-01,2023-12-01,Completed,24,95000,22,Beauty Campaign Lead,2023-08-25
+25,Retail Inventory System,Real-time stock tracking for 50 stores,2024-03-15,2024-10-31,In Progress,25,140000,26,QA Lead,2024-03-10
+26,Event Management Platform,Ticketing and scheduling system,2023-12-15,2024-05-15,Completed,26,80000,7,Content Lead,2023-12-10
+27,Network Security Upgrade,Firewall and endpoint protection,2024-04-15,2024-08-15,In Progress,27,60000,41,Security Engineer,2024-04-10
+28,Fitness App Integration,Sync with wearables and nutrition DB,2023-10-01,2024-03-01,Completed,28,90000,6,Fitness App Dev,2023-09-25
+29,Photography Asset Portal,Client gallery and download system,2024-01-10,2024-06-10,In Progress,29,40000,27,Photography Portal Dev,2024-01-05
+30,Digital Publishing Platform,E-book and audiobook distribution,2023-05-15,2023-11-30,Completed,30,100000,11,Publishing Backend Lead,2023-05-10
+31,Toy Safety Compliance,Testing and certification for new line,2024-02-01,2024-07-01,In Progress,31,50000,47,Compliance Specialist,2024-01-25
+32,Solar Panel Monitoring,Remote performance tracking system,2023-11-01,2024-04-30,Completed,32,70000,35,Solar Analyst,2023-10-25
+33,Logistics Tracking API,Real-time shipment visibility,2024-03-01,2024-09-01,In Progress,33,110000,36,Logistics API Dev,2024-02-25
+34,Payment Gateway Integration,Stripe and PayPal for global sales,2023-08-15,2024-01-15,Completed,34,55000,16,Payment Integration Lead,2023-08-10
+35,Music Streaming Backend,Scalable audio delivery infrastructure,2024-05-01,2025-02-28,Planned,35,250000,45,Streaming Architect,2024-04-25
+36,Smart Home Prototype,IoT hub for lighting and security,2023-09-15,2024-03-31,Completed,36,120000,31,Smart Home Dev,2023-09-10
+37,Drone Fleet Management,Software for agricultural drones,2024-01-15,2024-08-31,In Progress,37,130000,2,Drone Software Lead,2024-01-10
+38,Spa Booking System,Online reservations and CRM,2023-07-01,2023-12-01,Completed,38,45000,14,Spa System Coordinator,2023-06-25
+39,Vintage Car Catalog,Digital archive and sales platform,2024-02-15,2024-08-15,In Progress,39,60000,47,Classic Car Platform Lead,2024-02-10
+40,Craft Brewery POS,Inventory and sales system for taproom,2023-10-01,2024-02-28,Completed,40,35000,13,Brewery POS Specialist,2023-09-25
+41,Educational Game Suite,Math and reading games for kids,2024-04-01,2025-01-31,Planned,41,160000,23,Edu Game Lead,2024-03-25
+42,Solar Farm Monitoring,Performance analytics for utility-scale,2023-12-01,2024-06-30,In Progress,42,180000,32,Renewable Energy Analyst,2023-11-25
+43,Robotics Control Software,Path planning and sensor fusion,2024-03-15,2024-11-30,In Progress,43,220000,11,Robotics Software Lead,2024-03-10
+44,Language Learning App,AI-powered conversation practice,2023-11-15,2024-05-31,Completed,44,95000,12,Language App Marketer,2023-11-10
+45,Drone Delivery Simulation,Urban logistics modeling,2024-05-15,2025-03-31,Planned,45,140000,45,Simulation Architect,2024-05-10
+46,Wellness Program Platform,Corporate health challenges and tracking,2023-08-01,2024-01-31,Completed,46,70000,24,Wellness Program Coordinator,2023-07-25
+47,Classic Car Marketplace,Online auction and escrow system,2024-01-01,2024-07-31,In Progress,47,85000,7,Marketplace Content Lead,2023-12-25
+48,Brewery Supply Chain,Hops and grain inventory optimization,2023-09-01,2024-02-28,Completed,48,50000,33,Brewery Supply Analyst,2023-08-25
+49,Game-Based Learning,History and science interactive modules,2024-02-01,2024-09-30,In Progress,49,110000,21,Game Dev Lead,2024-01-25
+50,Renewable Energy Dashboard,Real-time solar/wind output visualization,2023-10-15,2024-04-30,Completed,50,75000,35,Energy Dashboard Lead,2023-10-10

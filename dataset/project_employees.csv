@@ -1,0 +1,51 @@
+project_id,employee_id,role_in_project,assigned_at
+1,1,Lead Developer,2023-03-10
+2,6,Frontend Lead,2023-04-25
+3,11,Integration Specialist,2023-07-05
+4,17,Designer,2023-01-25
+5,16,DevOps Lead,2023-07-25
+6,36,Data Engineer,2023-09-10
+7,45,Cloud Architect,2023-10-25
+8,12,SEO Lead,2023-01-05
+9,22,Marketing Lead,2023-09-25
+10,42,Social Media Strategist,2024-01-10
+11,41,Security Lead,2023-11-25
+12,21,Full Stack Lead,2024-01-25
+13,24,Training Lead,2023-06-10
+14,33,Sales Ops Analyst,2024-02-25
+15,27,Video Producer,2023-03-25
+16,31,Mobile Lead,2024-03-25
+17,35,Energy Analyst,2023-10-10
+18,17,UX Researcher,2024-04-25
+19,2,AgriTech Consultant,2023-08-10
+20,49,Compliance Lead,2023-12-25
+21,1,Medical Software Lead,2023-11-10
+22,13,Pet App Specialist,2024-02-10
+23,23,Edu Platform Lead,2023-06-25
+24,22,Beauty Campaign Lead,2023-08-25
+25,26,QA Lead,2024-03-10
+26,7,Content Lead,2023-12-10
+27,41,Security Engineer,2024-04-10
+28,6,Fitness App Dev,2023-09-25
+29,27,Photography Portal Dev,2024-01-05
+30,11,Publishing Backend Lead,2023-05-10
+31,47,Compliance Specialist,2024-01-25
+32,35,Solar Analyst,2023-10-25
+33,36,Logistics API Dev,2024-02-25
+34,16,Payment Integration Lead,2023-08-10
+35,45,Streaming Architect,2024-04-25
+36,31,Smart Home Dev,2023-09-10
+37,2,Drone Software Lead,2024-01-10
+38,14,Spa System Coordinator,2023-06-25
+39,47,Classic Car Platform Lead,2024-02-10
+40,13,Brewery POS Specialist,2023-09-25
+41,23,Edu Game Lead,2024-03-25
+42,32,Renewable Energy Analyst,2023-11-25
+43,11,Robotics Software Lead,2024-03-10
+44,12,Language App Marketer,2023-11-10
+45,45,Simulation Architect,2024-05-10
+46,24,Wellness Program Coordinator,2023-07-25
+47,7,Marketplace Content Lead,2023-12-25
+48,33,Brewery Supply Analyst,2023-08-25
+49,21,Game Dev Lead,2024-01-25
+50,35,Energy Dashboard Lead,2023-10-10

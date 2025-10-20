@@ -1,0 +1,51 @@
+employee_id,full_name,position,salary,department_id,hire_date
+1,Michael Chen,Senior Developer,95000,3,2020-06-15
+2,Sarah Johnson,Marketing Director,110000,1,2019-03-22
+3,David Kim,Sales Manager,85000,2,2021-01-10
+4,Emily Rodriguez,HR Specialist,65000,4,2022-08-05
+5,Robert Taylor,Financial Analyst,75000,5,2021-11-30
+6,Jessica Lee,Frontend Developer,80000,3,2022-02-14
+7,Andrew Wilson,Content Strategist,70000,1,2023-01-09
+8,Laura Martinez,Account Executive,78000,2,2020-09-17
+9,Thomas Anderson,Recruiter,60000,4,2023-03-20
+10,Olivia Brown,Accountant,72000,5,2021-07-12
+11,James Davis,Backend Developer,88000,3,2020-11-05
+12,Sophia Garcia,Digital Marketer,68000,1,2022-05-18
+13,Daniel Clark,Sales Representative,65000,2,2023-02-27
+14,Ava Lewis,HR Coordinator,58000,4,2022-10-10
+15,William Hall,Tax Specialist,80000,5,2019-12-03
+16,Mia Young,DevOps Engineer,92000,3,2021-04-22
+17,Ethan Allen,SEO Specialist,67000,1,2022-07-11
+18,Isabella Scott,Business Development,82000,2,2020-08-14
+19,Alexander Green,Payroll Administrator,63000,4,2023-01-30
+20,Charlotte Adams,Auditor,76000,5,2021-09-20
+21,Benjamin Baker,Full Stack Developer,90000,3,2022-03-15
+22,Amelia King,Brand Manager,85000,1,2020-05-07
+23,Jack Wright,Sales Operations,74000,2,2021-12-01
+24,Harper Lopez,Employee Relations,66000,4,2022-11-14
+25,Lucas Hill,Budget Analyst,73000,5,2023-04-05
+26,Evelyn Scott,QA Engineer,78000,3,2021-06-28
+27,Sebastian Turner,Graphic Designer,65000,1,2022-09-19
+28,Zoe Mitchell,Client Success Manager,77000,2,2020-10-22
+29,Levi Perez,HRIS Analyst,69000,4,2021-08-09
+30,Victoria Roberts,Financial Controller,95000,5,2019-07-15
+31,Matthew Campbell,Mobile Developer,86000,3,2022-01-17
+32,Chloe Parker,Email Marketing Specialist,64000,1,2023-02-06
+33,Elijah Evans,Sales Analyst,71000,2,2021-10-25
+34,Zoey Edwards,Compensation Specialist,70000,4,2022-06-13
+35,Julian Collins,Investment Analyst,82000,5,2020-04-20
+36,Nora Stewart,Data Engineer,89000,3,2021-03-08
+37,Levi Sanchez,Video Producer,72000,1,2022-04-11
+38,Hazel Murphy,Inside Sales Rep,63000,2,2023-05-22
+39,Owen Richardson,Training Coordinator,61000,4,2021-05-17
+40,Lily Cox,Treasury Analyst,74000,5,2022-08-30
+41,Gabriel Howard,Security Engineer,93000,3,2020-12-10
+42,Aurora Ward,Social Media Manager,69000,1,2021-11-08
+43,Isaac Torres,Channel Sales Manager,88000,2,2019-09-03
+44,Stella Flores,Benefits Administrator,67000,4,2022-12-05
+45,Leo Gutierrez,Cloud Architect,105000,3,2020-02-19
+46,Claire Ramirez,PR Specialist,71000,1,2023-01-16
+47,Aaron James,Key Account Manager,90000,2,2020-07-27
+48,Violet Watson,HR Business Partner,78000,4,2021-02-14
+49,Thomas Brooks,Compliance Officer,85000,5,2022-03-28
+50,Natalie Price,Product Manager,98000,3,2019-11-11

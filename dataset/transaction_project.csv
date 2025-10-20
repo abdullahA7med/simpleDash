@@ -1,0 +1,51 @@
+transaction_id,project_id,client_id_x,type,amount,txn_date,description_x,project_name,description_y,start_date,end_date,status,client_id_y,budget
+1,1,1,Income,75000,2023-06-30,Final payment for website,Website Redesign,Complete overhaul of client's e-commerce platform,2023-03-15,2023-06-30,Completed,1,75000
+2,2,2,Income,120000,2023-10-15,App development complete,Mobile App Development,iOS and Android app for inventory tracking,2023-05-01,2023-10-15,Completed,2,120000
+3,3,3,Income,50000,2023-09-30,CRM integration,CRM Integration,Integrate Salesforce with internal tools,2023-07-10,2023-09-30,Completed,3,50000
+4,4,4,Income,30000,2023-04-15,Brand package,Brand Identity Refresh,"New logo, colors, and brand guidelines",2023-02-01,2023-04-15,Completed,4,30000
+5,5,5,Income,200000,2024-01-31,Cloud migration,Cloud Migration,Migrate on-premise servers to AWS,2023-08-01,2024-01-31,Completed,5,200000
+6,6,6,Income,85000,2024-02-28,Dashboard delivery,Data Analytics Dashboard,Real-time sales and marketing dashboard,2023-09-15,2024-02-28,Completed,6,85000
+7,7,7,Deposit,90000,2023-11-01,ERP implementation deposit,ERP Implementation,Deploy SAP ERP across finance and HR,2023-11-01,2024-05-31,In Progress,7,300000
+8,8,8,Income,25000,2023-06-30,SEO campaign,SEO Optimization Campaign,Improve organic search rankings,2023-01-10,2023-06-30,Completed,8,25000
+9,9,9,Income,60000,2023-12-15,Launch support,Product Launch Support,Marketing and logistics for new product,2023-10-01,2023-12-15,Completed,9,60000
+10,10,10,Retainer,20000,2024-01-15,Social media retainer,Social Media Strategy,6-month content and ad strategy,2024-01-15,2024-07-15,In Progress,10,40000
+11,11,11,Income,70000,2024-03-31,Security audit,Cybersecurity Audit,Full security assessment and hardening,2023-12-01,2024-03-31,Completed,11,70000
+12,12,12,Deposit,45000,2024-02-01,E-com platform deposit,E-commerce Platform Build,Custom Shopify Plus implementation,2024-02-01,2024-08-31,In Progress,12,150000
+13,13,13,Income,35000,2023-09-01,Training program,Training Program Development,Onboard new sales team with LMS,2023-06-15,2023-09-01,Completed,13,35000
+14,14,14,Income,90000,2024-09-30,Logistics optimization,Supply Chain Optimization,Reduce logistics costs by 20%,2024-03-01,2024-09-30,In Progress,14,90000
+15,15,15,Income,45000,2023-07-15,Video production,Video Production Series,10 promotional videos for product line,2023-04-01,2023-07-15,Completed,15,45000
+16,16,16,Expense,0,2024-04-01,Game dev estimate,Mobile Game Development,Casual puzzle game for iOS/Android,2024-04-01,2025-01-31,Planned,16,200000
+17,17,17,Income,55000,2024-01-15,Energy study,Green Energy Feasibility,Solar/wind integration study,2023-10-15,2024-01-15,Completed,17,55000
+18,18,18,Income,30000,2024-07-31,UX research,UX Research Study,User testing for new app features,2024-05-01,2024-07-31,In Progress,18,30000
+19,19,19,Income,110000,2024-02-28,AgriTech pilot,Agricultural IoT Pilot,Sensor network for smart farming,2023-08-15,2024-02-28,Completed,19,110000
+20,20,20,Income,65000,2024-06-30,Compliance portal,Legal Compliance Portal,GDPR and CCPA compliance tool,2024-01-01,2024-06-30,In Progress,20,65000
+21,21,21,Income,180000,2024-08-31,Medical software,Medical Device Software,FDA-compliant patient monitoring app,2023-11-15,2024-08-31,In Progress,21,180000
+22,22,22,Income,75000,2024-09-30,Pet app,Pet Care Mobile App,Appointment booking and reminders,2024-02-15,2024-09-30,In Progress,22,75000
+23,23,23,Income,130000,2024-01-31,Learning platform,Online Learning Platform,K-12 interactive course system,2023-07-01,2024-01-31,Completed,23,130000
+24,24,24,Income,95000,2023-12-01,Beauty launch,Beauty Product Launch,Full campaign for new skincare line,2023-09-01,2023-12-01,Completed,24,95000
+25,25,25,Deposit,42000,2024-03-15,Retail system deposit,Retail Inventory System,Real-time stock tracking for 50 stores,2024-03-15,2024-10-31,In Progress,25,140000
+26,26,26,Income,80000,2024-05-15,Event platform,Event Management Platform,Ticketing and scheduling system,2023-12-15,2024-05-15,Completed,26,80000
+27,27,27,Income,60000,2024-08-15,Security upgrade,Network Security Upgrade,Firewall and endpoint protection,2024-04-15,2024-08-15,In Progress,27,60000
+28,28,28,Income,90000,2024-03-01,Fitness app,Fitness App Integration,Sync with wearables and nutrition DB,2023-10-01,2024-03-01,Completed,28,90000
+29,29,29,Income,40000,2024-06-10,Photo portal,Photography Asset Portal,Client gallery and download system,2024-01-10,2024-06-10,In Progress,29,40000
+30,30,30,Income,100000,2023-11-30,Publishing platform,Digital Publishing Platform,E-book and audiobook distribution,2023-05-15,2023-11-30,Completed,30,100000
+31,31,31,Income,50000,2024-07-01,Toy compliance,Toy Safety Compliance,Testing and certification for new line,2024-02-01,2024-07-01,In Progress,31,50000
+32,32,32,Income,70000,2024-04-30,Solar monitoring,Solar Panel Monitoring,Remote performance tracking system,2023-11-01,2024-04-30,Completed,32,70000
+33,33,33,Income,110000,2024-09-01,Logistics API,Logistics Tracking API,Real-time shipment visibility,2024-03-01,2024-09-01,In Progress,33,110000
+34,34,34,Income,55000,2024-01-15,Payment gateway,Payment Gateway Integration,Stripe and PayPal for global sales,2023-08-15,2024-01-15,Completed,34,55000
+35,35,35,Expense,0,2024-05-01,Streaming backend estimate,Music Streaming Backend,Scalable audio delivery infrastructure,2024-05-01,2025-02-28,Planned,35,250000
+36,36,36,Income,120000,2024-03-31,Smart home prototype,Smart Home Prototype,IoT hub for lighting and security,2023-09-15,2024-03-31,Completed,36,120000
+37,37,37,Income,130000,2024-08-31,Drone software,Drone Fleet Management,Software for agricultural drones,2024-01-15,2024-08-31,In Progress,37,130000
+38,38,38,Income,45000,2023-12-01,Spa system,Spa Booking System,Online reservations and CRM,2023-07-01,2023-12-01,Completed,38,45000
+39,39,39,Income,60000,2024-08-15,Car catalog,Vintage Car Catalog,Digital archive and sales platform,2024-02-15,2024-08-15,In Progress,39,60000
+40,40,40,Income,35000,2024-02-28,Brewery POS,Craft Brewery POS,Inventory and sales system for taproom,2023-10-01,2024-02-28,Completed,40,35000
+41,41,41,Expense,0,2024-04-01,Edu game estimate,Educational Game Suite,Math and reading games for kids,2024-04-01,2025-01-31,Planned,41,160000
+42,42,42,Income,180000,2024-06-30,Solar farm dashboard,Solar Farm Monitoring,Performance analytics for utility-scale,2023-12-01,2024-06-30,In Progress,42,180000
+43,43,43,Income,220000,2024-11-30,Robotics software,Robotics Control Software,Path planning and sensor fusion,2024-03-15,2024-11-30,In Progress,43,220000
+44,44,44,Income,95000,2024-05-31,Language app,Language Learning App,AI-powered conversation practice,2023-11-15,2024-05-31,Completed,44,95000
+45,45,45,Expense,0,2024-05-15,Drone simulation estimate,Drone Delivery Simulation,Urban logistics modeling,2024-05-15,2025-03-31,Planned,45,140000
+46,46,46,Income,70000,2024-01-31,Wellness platform,Wellness Program Platform,Corporate health challenges and tracking,2023-08-01,2024-01-31,Completed,46,70000
+47,47,47,Income,85000,2024-07-31,Car marketplace,Classic Car Marketplace,Online auction and escrow system,2024-01-01,2024-07-31,In Progress,47,85000
+48,48,48,Income,50000,2024-02-28,Brewery supply chain,Brewery Supply Chain,Hops and grain inventory optimization,2023-09-01,2024-02-28,Completed,48,50000
+49,49,49,Income,110000,2024-09-30,Game-based learning,Game-Based Learning,History and science interactive modules,2024-02-01,2024-09-30,In Progress,49,110000
+50,50,50,Income,75000,2024-04-30,Renewable dashboard,Renewable Energy Dashboard,Real-time solar/wind output visualization,2023-10-15,2024-04-30,Completed,50,75000
